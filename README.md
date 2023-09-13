@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi everyone!
+I'm Amroe Bagas Witjaksana.\
+Bachelor's degree from Budi Luhur University majoring in Information System with experience as a Data Engineer Intern. Eager to learn new things, I'm a detail-oriented person and aspire to be a Data Scientist or Data Analysis field. I have a mastery of SQL, R, Python, and data visualization.
 
 <!--
 **amroebagas/amroebagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
